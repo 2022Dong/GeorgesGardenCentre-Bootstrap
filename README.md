@@ -1,2 +1,2 @@
-![home](images/Screenshot1.jpg)
-![products](images/Screenshot2.jpg)
+![home](images/Screenshot1.png)
+![products](images/Screenshot2.png)
